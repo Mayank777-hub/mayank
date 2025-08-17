@@ -1,4 +1,4 @@
 # mayank
 this is my first repositery
 <br>
-Author -Stephen Kings
+Author -Stephen Kings.
