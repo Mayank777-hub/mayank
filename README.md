@@ -1,3 +1,4 @@
 # mayank
 this is my first repositery
-Author -Steogen Kings
+<br>
+Author -Stephen Kings
